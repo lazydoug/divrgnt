@@ -55,15 +55,15 @@ body {
 }
 
 .home-fade {
-  display: grid;
-  place-items: center;
+  /* display: grid;
+  place-items: center; */
 }
 
 .stage-positioner {
-  position: relative;
+  /* position: relative;
   width: min(100vw, calc(100svh * 1.5));
   aspect-ratio: 3 / 2;
-  container-type: inline-size;
+  container-type: inline-size; */
 }
 
 .home-stage {
